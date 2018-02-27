@@ -8,3 +8,5 @@
 - Versao 16.9.1.0
 
 - Versao 16.10.1.0
+
+- Update para gerar versões com Octokit
