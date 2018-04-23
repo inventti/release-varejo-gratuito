@@ -10,3 +10,5 @@
 - Versao 16.10.1.0
 
 - Update para gerar versões com Octokit
+
+- Update para gerar versões com fake
